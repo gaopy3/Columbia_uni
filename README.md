@@ -1,2 +1,2 @@
 # Columbia_uni
-assignments&amp;exercises 
+Assignments&amp;exercises at Columbia Univerity Data Science program
